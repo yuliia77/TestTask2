@@ -21,10 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="resources\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="resources\chromedriver">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
